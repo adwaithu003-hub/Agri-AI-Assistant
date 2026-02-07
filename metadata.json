@@ -1,0 +1,9 @@
+{
+  "name": "Agri AI - Your Smart Assistant",
+  "description": "A comprehensive agricultural AI assistant for plant disease diagnosis, soil analysis, garden care, and real-time weather monitoring with predictive hazard alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
